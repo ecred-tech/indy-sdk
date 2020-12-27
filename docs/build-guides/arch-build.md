@@ -1,4 +1,4 @@
-# Setup Indy SDK build environment for Arch-based distro
+# Setup Indy SDK build environment for Arch-based distro (or Manjaro)
 
 1. Install Rust and rustup (https://www.rust-lang.org/install.html).
 2. Install required native libraries and utilities:
