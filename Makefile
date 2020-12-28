@@ -1,4 +1,4 @@
-pool_ip := 192.168.1.6
+pool_ip := ${POOL_IP}
 
 build-node:
 	@echo ---- building local indy node ----
