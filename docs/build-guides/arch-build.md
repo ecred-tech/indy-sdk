@@ -30,7 +30,7 @@
 
    
 4. Run integration tests:
-    [Start local nodes pool with Docker](https://github.com/hyperledger/indy-sdk/blob/master/README.md#how-to-start-local-nodes-pool-with-docker)
+    [Start local nodes pool with Docker](/README.md#how-to-start-local-nodes-pool-with-docker)
 
 
      If you use this method then you have to specify the TEST_POOL_IP as specified below  when running the tests.
@@ -69,4 +69,4 @@
    ```
    To run indy-cli, navigate to `cli/target/debug` and run `./indy-cli`
 
-See [libindy/ci/ubuntu.dockerfile](https://github.com/hyperledger/indy-sdk/tree/master/libindy/ci/ubuntu.dockerfile) for example of Ubuntu based environment creation in Docker.
+See [libindy/ci/ubuntu.dockerfile](/libindy/ci/ubuntu.dockerfile) for example of Ubuntu based environment creation in Docker.
