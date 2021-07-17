@@ -4,8 +4,8 @@
 2. Install required native libraries and utilities:
 
    ```
-   sudo pacman -Syu && \
-   sudo pacman -S \ 
+   sudo pacman -Sy && \
+   sudo pacman -S \
        base-devel \
        cmake \
        openssl \
